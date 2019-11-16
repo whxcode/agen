@@ -1,0 +1,28 @@
+my-skeleton(h,r)
+  .van-skeleton
+    height h
+  .van-skeleton__content
+    display flex
+    flex-flow column
+    justify-content space-between
+    .van-skeleton__row
+      flex 1
+      border-radius r
+
+my-ven(size = 36px,h = right,i = 12px,c)
+  .van-cell
+    margin-top 22px
+    display flex
+    align-items center
+    padding 5.666667vw 0 !important
+    line-height  inherit !important
+  .van-cell__title
+      width auto
+  span,i,input,textarea
+    font-size size !important
+  input
+    text-align h
+    text-indent i
+    color c
+
+
