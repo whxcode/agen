@@ -29,7 +29,7 @@
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
     "cssnano-preset-advanced": "^4.0.7",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^2.1.1",
     "postcss-px2rem": "^0.3.0",
